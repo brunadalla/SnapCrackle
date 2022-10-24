@@ -1,5 +1,5 @@
 ## SnapCrackle
-Projeto criado no primeiro módulo do curso de Formação em Desenvolvimento Full Stack da Kenzie Academy. 
+Projeto criado no primeiro módulo do curso de **Formação em Desenvolvimento Full Stack da Kenzie Academy Brasil**. 
 
 Trabalho acerca dos conhecimentos de **arrays, loops, condicionais e strings**, onde há uma função chamada snapCrackle que leva um parâmetro denominado maxValue  e deve montar 
 uma string com as seguintes condições para cada número:
